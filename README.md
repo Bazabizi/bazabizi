@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 I am Natnael Tafesse
+💻 Full-stack developer | React, Next.js, Django
+📱 Flutter mobile app enthusiast
+🌟 Passionate about building scalable, user-friendly applications
+🚀 Open to collaborating on innovative projects
 <!--
 **Bazabizi/bazabizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
